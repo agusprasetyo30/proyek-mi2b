@@ -1,6 +1,6 @@
 # Proyek 1 ( Kelas MI-2B)
 
-Pada mata kuliah ini kita akan membuat sebuah program **koperasi**, dimana di dalamnya terdapat sebuah transaksi penjualan, administrasi anggota dll.
+Pada mata kuliah ini kita akan membuat sebuah program **koperasi**, dimana di dalamnya terdapat sebuah transaksi penjualan, administrasi anggota dan lain-lain.
 
 ----------
 
